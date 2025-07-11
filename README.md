@@ -2,7 +2,7 @@
 
 I am currently working on my very own personal portfolio website -- coming soon!
 
-used youtub tutoital but customized it by adding the dark mode, and changing some of the layout. 
+used youtube tutoital but customized it by adding the dark mode, and changing some of the layout. 
 HTML, CSS, JavaScript
 Document Object Modeling
 Scalability -- ability to neatly consolidate on smaller screens *-- difficulty 
