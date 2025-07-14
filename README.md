@@ -10,4 +10,5 @@ Dark Mode
 localStorage maniputlaion, remember which mode it was in when refreshed 
 first navigation menu & hamburger navigation 
 learned a lot - went through every bit of the code to ensure I understood why I wrote what I did 
-GUI - Grafphical 
+GUI - Graphical User Interface
+Responsive design techniques -- things consolidate nicely when the screen gets smaller. media queries 
