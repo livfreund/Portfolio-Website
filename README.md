@@ -1,6 +1,12 @@
 # Portfolio-Website
 
-I am currently working on my very own personal portfolio website -- coming soon!
+This project was very challengeing for me in the beginner stages of my web development capabilities. This portfolio website is meant to display my 
+web development skills as well as serve as my personal professional portfolio. 
+
+
+
+
+
 
 used youtube tutoital but customized it by adding the dark mode, and changing some of the layout. 
 HTML, CSS, JavaScript
