@@ -1,9 +1,10 @@
 # Portfolio-Website
 This portfolio showcases my foundational web development skills and serves as a professional introduction to my work. As an incoming graduate student at 
 Boston University studying software development, I recognize that I’m early in my journey. To support my learning, I referenced a 
-tutorial video to help guide the website’s construction.
-Tutorial Link: https://www.youtube.com/watch?v=ldwlOzRvYOU
-While the tutorial provided structural guidance, I built the site from scratch, embedded descriptive comments throughout the code to ensure clarity, and developed a deep understanding of every component. Additionally, I customized the project by incorporating a dark mode feature and redesigning the layout to better align with my professional goals.
+tutorial video to help guide the website’s construction. While the tutorial provided structural guidance, I built the site from scratch, embedded descriptive 
+comments throughout the code to ensure clarity, and developed a deep understanding of every component. Additionally, I customized 
+the project by incorporating a dark mode feature and redesigning the layout to better align with my professional goals.
+The Tutorial Link: https://www.youtube.com/watch?v=ldwlOzRvYOU
 
 ### Languages Used: 
 - HTML 
